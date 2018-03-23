@@ -1,0 +1,11 @@
+C:\Dheeman\Personal\DOTNET\myFirstAzureWebApp\myFirstAzureWebApp\bin\Debug\netcoreapp2.0\myFirstAzureWebApp.deps.json
+C:\Dheeman\Personal\DOTNET\myFirstAzureWebApp\myFirstAzureWebApp\bin\Debug\netcoreapp2.0\myFirstAzureWebApp.runtimeconfig.json
+C:\Dheeman\Personal\DOTNET\myFirstAzureWebApp\myFirstAzureWebApp\bin\Debug\netcoreapp2.0\myFirstAzureWebApp.runtimeconfig.dev.json
+C:\Dheeman\Personal\DOTNET\myFirstAzureWebApp\myFirstAzureWebApp\bin\Debug\netcoreapp2.0\myFirstAzureWebApp.dll
+C:\Dheeman\Personal\DOTNET\myFirstAzureWebApp\myFirstAzureWebApp\bin\Debug\netcoreapp2.0\myFirstAzureWebApp.pdb
+C:\Dheeman\Personal\DOTNET\myFirstAzureWebApp\myFirstAzureWebApp\obj\Debug\netcoreapp2.0\myFirstAzureWebApp.csprojResolveAssemblyReference.cache
+C:\Dheeman\Personal\DOTNET\myFirstAzureWebApp\myFirstAzureWebApp\obj\Debug\netcoreapp2.0\myFirstAzureWebApp.csproj.CoreCompileInputs.cache
+C:\Dheeman\Personal\DOTNET\myFirstAzureWebApp\myFirstAzureWebApp\obj\Debug\netcoreapp2.0\myFirstAzureWebApp.AssemblyInfoInputs.cache
+C:\Dheeman\Personal\DOTNET\myFirstAzureWebApp\myFirstAzureWebApp\obj\Debug\netcoreapp2.0\myFirstAzureWebApp.AssemblyInfo.cs
+C:\Dheeman\Personal\DOTNET\myFirstAzureWebApp\myFirstAzureWebApp\obj\Debug\netcoreapp2.0\myFirstAzureWebApp.dll
+C:\Dheeman\Personal\DOTNET\myFirstAzureWebApp\myFirstAzureWebApp\obj\Debug\netcoreapp2.0\myFirstAzureWebApp.pdb

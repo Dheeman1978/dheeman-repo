@@ -1,0 +1,10 @@
+C:\Dheeman\Personal\DOTNET\myFirstAzureWebApp\myFirstAzureWebApp\bin\Debug\netcoreapp2.0\DC.AzureSample.MyFirstAzureWebApp.deps.json
+C:\Dheeman\Personal\DOTNET\myFirstAzureWebApp\myFirstAzureWebApp\bin\Debug\netcoreapp2.0\DC.AzureSample.MyFirstAzureWebApp.runtimeconfig.json
+C:\Dheeman\Personal\DOTNET\myFirstAzureWebApp\myFirstAzureWebApp\bin\Debug\netcoreapp2.0\DC.AzureSample.MyFirstAzureWebApp.runtimeconfig.dev.json
+C:\Dheeman\Personal\DOTNET\myFirstAzureWebApp\myFirstAzureWebApp\bin\Debug\netcoreapp2.0\DC.AzureSample.MyFirstAzureWebApp.dll
+C:\Dheeman\Personal\DOTNET\myFirstAzureWebApp\myFirstAzureWebApp\bin\Debug\netcoreapp2.0\DC.AzureSample.MyFirstAzureWebApp.pdb
+C:\Dheeman\Personal\DOTNET\myFirstAzureWebApp\myFirstAzureWebApp\obj\Debug\netcoreapp2.0\DC.AzureSample.MyFirstAzureWebApp.csproj.CoreCompileInputs.cache
+C:\Dheeman\Personal\DOTNET\myFirstAzureWebApp\myFirstAzureWebApp\obj\Debug\netcoreapp2.0\DC.AzureSample.MyFirstAzureWebApp.AssemblyInfoInputs.cache
+C:\Dheeman\Personal\DOTNET\myFirstAzureWebApp\myFirstAzureWebApp\obj\Debug\netcoreapp2.0\DC.AzureSample.MyFirstAzureWebApp.AssemblyInfo.cs
+C:\Dheeman\Personal\DOTNET\myFirstAzureWebApp\myFirstAzureWebApp\obj\Debug\netcoreapp2.0\DC.AzureSample.MyFirstAzureWebApp.dll
+C:\Dheeman\Personal\DOTNET\myFirstAzureWebApp\myFirstAzureWebApp\obj\Debug\netcoreapp2.0\DC.AzureSample.MyFirstAzureWebApp.pdb
